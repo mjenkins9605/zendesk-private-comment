@@ -14,5 +14,5 @@ Install Zendesk Apps Tools (ZAT) in order to Zip/Compress the file. ***NOTE: Try
 
 This will create a new .zip file which can be found at zendesk-private-comment/tmp
 
-- Go to https://vidangel.zendesk.com/agent/admin/apps/manage and/or https://vidangelstudios.zendesk.com/agent/admin/apps/manage
+- Open Zendesk and navigate to Admin => APPS => Manage
 - On the Zendesk Private Comments app, click the gear icon and update the zipped file
