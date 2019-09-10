@@ -8,9 +8,9 @@ Please submit bug reports to Michael. Pull requests are welcome.
 
 Install Zendesk Apps Tools (ZAT) in order to Zip/Compress the file. ***NOTE: Trying to compress/zip file manually will throw an error when uploading. Follow these steps to successfully create zip file.***
 
-- run gem install rake
-- run gem install zendesk_apps_tools
-- run zat package
+- run `gem install rake`
+- run `gem install zendesk_apps_tools`
+- run `zat package`
 
 This will create a new .zip file which can be found at zendesk-private-comment/tmp
 
