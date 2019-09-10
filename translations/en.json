@@ -1,0 +1,8 @@
+{
+    "app": {
+        "name": "Zendesk Private Comment",
+        "short_description": "Adds private comment.",
+        "long_description": "Creates a sidebar app in Zendesk to add a Private Comment to the ticket",
+        "installation_instructions": "See README"
+    }
+}
