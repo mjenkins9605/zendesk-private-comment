@@ -1,6 +1,10 @@
 {
     "name": "Private Comment",
-    "author": "mjenkins9605",
+    "author": {
+        "name": "VidAngel",
+        "email": "tech-team@vidangel.com",
+        "url": "https://www.vidangel.com"
+        },
     "defaultLocale": "en",
     "private": true,
     "location": {
