@@ -4,7 +4,7 @@ function submitComment() {
     update = {
         'ticket': {
             'comment': {
-                'body': $('#message').val(),s,
+                'body': $('#message').val(),
                 'public': false
             }
         }
